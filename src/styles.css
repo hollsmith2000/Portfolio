@@ -1,6 +1,6 @@
 :root {
-  --branding-color: #add8e6;
-  --secondary-color: #fcf8f4;
+  --branding-color: #0dcaf08c;
+  --secondary-color: #e7e9ffb8;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
@@ -201,7 +201,6 @@ footer .social-links a:hover {
 
   .content-container {
     text-align: center;
-    padding: 0;
   }
 
   nav a {
